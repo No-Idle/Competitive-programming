@@ -12,3 +12,5 @@ I scored
 *   H - 53
 
 and got 26th place.
+
+You can find the statements in Russian [here](http://neerc.ifmo.ru/school/archive/2019-2020.html)
